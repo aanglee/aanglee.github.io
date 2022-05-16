@@ -1,0 +1,15 @@
+{
+    "name": "stephen/ar3d",
+    "autoload": {
+        "psr-4": {
+            "Stephen\\Ar3d\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aanglee",
+            "email": "aanglee2022@gmail.com"
+        }
+    ],
+    "require": {}
+}
