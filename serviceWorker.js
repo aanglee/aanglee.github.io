@@ -9,6 +9,7 @@ const assets = [
   "/src/gesture-handler.js",
   "/assets/asset.mp4",
   "/assets/marker.patt",
+  "/icon-144x144.png",
   "/icon-192x192.png",
   "/icon-256x256.png",
   "/icon-384x384.png",
